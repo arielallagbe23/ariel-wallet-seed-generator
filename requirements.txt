@@ -1,0 +1,3 @@
+bit
+ecdsa
+PyQt5

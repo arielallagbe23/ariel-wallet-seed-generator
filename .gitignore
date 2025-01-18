@@ -1,0 +1,23 @@
+# Fichiers Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Dossiers d'environnement virtuel
+venv/
+env/
+.idea/
+
+# Fichiers Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Dossier de logs
+logs/
+
+# Fichiers sensibles
+.env
+
+# Autres fichiers spécifiques au système
+.DS_Store
+Thumbs.db
